@@ -1,0 +1,8 @@
+[
+  {
+    "message_id": "1",
+    "text": "My order is delayed again",
+    "primary_intent": "logistics",
+    "secondary_intent": "delivery"
+  }
+]

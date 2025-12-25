@@ -1,0 +1,8 @@
+[
+  {
+    "message_id": "1",
+    "primary_intent": "logistics",
+    "secondary_intent": "delivery",
+    "embedding": [0.0123, -0.4567, ...]
+  }
+]
