@@ -1,0 +1,101 @@
+KEEP – intent is healthy
+
+SPLIT – intent is overloaded, needs new branch
+
+MERGE – two intents can be boiled down to one
+
+MISSING_INTENT – something meaningful lives in FLAG
+
+NO_ACTION_FLAG – ambiguous / insufficient data.
+
+
+SPLIT when ALL are true:
+Cluster count ≥ 2
+
+At least 1 cluster has:
+
+≥ 20–30% of messages in the bucket
+
+Cohesion ≥ 0.75
+
+Inter‑cluster similarity is low
+
+Clusters imply different user actions or resolutions
+
+DO NOT split if:
+Differences are purely phrasing (same action)
+
+Secondary intents would route to same business flow
+
+Volume is too low (<30 messages total)
+
+
+
+
+MISSING_INTENT when:
+Messages are in FLAG
+
+Cluster size ≥ threshold (say 40–50)
+
+Cohesion ≥ 0.8
+
+Pattern does not cleanly map to any existing intent
+
+This is how you justify:
+
+“The taxonomy is incomplete.”
+
+
+
+MERGE when:
+Two intents have:
+
+High centroid similarity
+
+Similar cluster structures
+
+Same downstream action
+
+Users would not care about the distinction
+
+
+
+KEEP when:
+Single dominant cluster
+
+High cohesion
+
+Low noise
+
+No evidence of multiple tasks
+
+NO_ACTION_FLAG when:
+Cohesion low
+
+Clusters unstable
+
+Data too sparse or mixed
+
+
+Add:
+
+high – all rules strongly satisfied
+
+medium – borderline but consistent
+
+low – surfaced for review only
+
+
+
+For a split---
+High intra-cluster cohesion
+→ proves semantic stability
+
+Low inter-cluster similarity
+→ proves it’s not just wording variation
+
+Cluster is a substantial subset of the intent
+→ proves it’s not edge noise
+
+Different downstream action / resolution
+→ proves the taxonomy is overloaded
