@@ -1,11 +1,7 @@
 import json
 
 with open("data/raw_logs.json", "r", encoding="utf-8") as f:
-    try:
-        raw_logs = json.load(f)
-    except json.JSONDecodeError as e:
-        print("JSON ERROR →", e)
-        raise
+    raw_logs = json.load(f)
 
 messages = []
 

@@ -1,8 +1,798 @@
 [
   {
-    "message_id": "1",
-    "text": "My order is delayed again",
-    "primary_intent": "logistics",
-    "secondary_intent": "delivery"
+    "message_id": "msg_1",
+    "text": "Best for oily skin"
+  },
+  {
+    "message_id": "msg_2",
+    "text": "Mera order confirm ho gaya hai"
+  },
+  {
+    "message_id": "msg_3",
+    "text": "Others details "
+  },
+  {
+    "message_id": "msg_4",
+    "text": "What's special about it? Ultra Smoothing Shampoo for Smooth & Shiny Hair- 250ml"
+  },
+  {
+    "message_id": "msg_5",
+    "text": "Add to cart - Rosemary & Rice Water Hair Growth Spray"
+  },
+  {
+    "message_id": "msg_6",
+    "text": "Seee results "
+  },
+  {
+    "message_id": "msg_7",
+    "text": "When the order will be shipped"
+  },
+  {
+    "message_id": "msg_8",
+    "text": "What's special about it? Underarm Roll On for Odour Control & Pigmentation"
+  },
+  {
+    "message_id": "msg_9",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_10",
+    "text": "Which facewash is good for brighter face"
+  },
+  {
+    "message_id": "msg_11",
+    "text": "Shampoo of 3124677"
+  },
+  {
+    "message_id": "msg_12",
+    "text": "Which one is the best shampoo for dandruff and why"
+  },
+  {
+    "message_id": "msg_13",
+    "text": "What's your best product?"
+  },
+  {
+    "message_id": "msg_14",
+    "text": "My hair fall were not stop"
+  },
+  {
+    "message_id": "msg_15",
+    "text": "My lips like in two tone give me your best product "
+  },
+  {
+    "message_id": "msg_16",
+    "text": "Before use serum oil can be applied "
+  },
+  {
+    "message_id": "msg_17",
+    "text": "Any basic shampoos available in market ? "
+  },
+  {
+    "message_id": "msg_18",
+    "text": "My order company name "
+  },
+  {
+    "message_id": "msg_19",
+    "text": "Hindi language"
+  },
+  {
+    "message_id": "msg_20",
+    "text": "How to track order"
+  },
+  {
+    "message_id": "msg_21",
+    "text": "Okay"
+  },
+  {
+    "message_id": "msg_22",
+    "text": "Main alps  goodness   Rosemary water use abhi kar rehehu par thora bhi farak nehi ho rehi hai"
+  },
+  {
+    "message_id": "msg_23",
+    "text": "Tamil"
+  },
+  {
+    "message_id": "msg_24",
+    "text": "Can you tell me how to used hair fall shampoo "
+  },
+  {
+    "message_id": "msg_25",
+    "text": "Ye hairfall rukhne m halp krega"
+  },
+  {
+    "message_id": "msg_26",
+    "text": "Ye bal kale krenge agar kuchh bal safed ho gye hai to 17- 18 ki age me"
+  },
+  {
+    "message_id": "msg_27",
+    "text": "So body wash can't reduce darkness? From body part "
+  },
+  {
+    "message_id": "msg_28",
+    "text": "Please 🥺 xxxxxxxxxx x"
+  },
+  {
+    "message_id": "msg_29",
+    "text": "What's special about it? Anti Dandruff Shampoo with Salicylic Acid & Biotin- 250ml"
+  },
+  {
+    "message_id": "msg_30",
+    "text": "Looks like it’s cheap one "
+  },
+  {
+    "message_id": "msg_31",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_32",
+    "text": "Sampu 1 ya 2"
+  },
+  {
+    "message_id": "msg_33",
+    "text": "What's special about it? AHA Body Lotion with Niacinamide & Shea Butter"
+  },
+  {
+    "message_id": "msg_34",
+    "text": "Hi"
+  },
+  {
+    "message_id": "msg_35",
+    "text": "How to use it in daily routine? 10% Vitamin C Face Serum for Glowing & Bright Skin - 10ml"
+  },
+  {
+    "message_id": "msg_36",
+    "text": "rohanvijay990@gmail.com 9380163998"
+  },
+  {
+    "message_id": "msg_37",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_38",
+    "text": "where is my order"
+  },
+  {
+    "message_id": "msg_39",
+    "text": "Ha "
+  },
+  {
+    "message_id": "msg_40",
+    "text": "2-3 times is good for hair growth"
+  },
+  {
+    "message_id": "msg_41",
+    "text": "Anti dandruff how is it Tamil\n"
+  },
+  {
+    "message_id": "msg_42",
+    "text": "Oil skin"
+  },
+  {
+    "message_id": "msg_43",
+    "text": "Helo"
+  },
+  {
+    "message_id": "msg_44",
+    "text": "Hi mam"
+  },
+  {
+    "message_id": "msg_45",
+    "text": "How to use"
+  },
+  {
+    "message_id": "msg_46",
+    "text": "Okayy"
+  },
+  {
+    "message_id": "msg_47",
+    "text": "Send me code"
+  },
+  {
+    "message_id": "msg_48",
+    "text": "Age 10 year h koi side effects "
+  },
+  {
+    "message_id": "msg_49",
+    "text": "What's special about it? Rosemary & Rice Water Hair Growth Spray"
+  },
+  {
+    "message_id": "msg_50",
+    "text": "Yes mam "
+  },
+  {
+    "message_id": "msg_51",
+    "text": "Body scrub for dry skin "
+  },
+  {
+    "message_id": "msg_52",
+    "text": "To serum se koi side effects to nhi"
+  },
+  {
+    "message_id": "msg_53",
+    "text": "Boio "
+  },
+  {
+    "message_id": "msg_54",
+    "text": "9940098250"
+  },
+  {
+    "message_id": "msg_55",
+    "text": "I didn’t place. Planning to order body wash. Need to know exact delivery date"
+  },
+  {
+    "message_id": "msg_56",
+    "text": "What's special about it? Salicylic Acid Face Wash for Acne & Oil Control- 100ml"
+  },
+  {
+    "message_id": "msg_57",
+    "text": "Scalp par lagaye to"
+  },
+  {
+    "message_id": "msg_58",
+    "text": "What's special about it? Natural Lip Balm for Chapped & Pigmented Lips | SPF 50 PA++++ & Kojic Acid"
+  },
+  {
+    "message_id": "msg_59",
+    "text": "How to track order ?"
+  },
+  {
+    "message_id": "msg_60",
+    "text": "Okkk"
+  },
+  {
+    "message_id": "msg_61",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_62",
+    "text": "Where is my order "
+  },
+  {
+    "message_id": "msg_63",
+    "text": "What's special about it? Cherry Lip Balm for Chapped & Pigmented Lips | SPF 50 PA++++ & Kojic Acid"
+  },
+  {
+    "message_id": "msg_64",
+    "text": "No"
+  },
+  {
+    "message_id": "msg_65",
+    "text": "What's special about it? Under Eye Cream for Dark Circles Removal & Wrinkles - 15g"
+  },
+  {
+    "message_id": "msg_66",
+    "text": "Salicylic acid ka matlab kya h "
+  },
+  {
+    "message_id": "msg_67",
+    "text": "Yes"
+  },
+  {
+    "message_id": "msg_68",
+    "text": "Help me track order"
+  },
+  {
+    "message_id": "msg_69",
+    "text": "3235368 &&order id"
+  },
+  {
+    "message_id": "msg_70",
+    "text": "I'm already send the number "
+  },
+  {
+    "message_id": "msg_71",
+    "text": "Me boy hu meri age 23 hai "
+  },
+  {
+    "message_id": "msg_72",
+    "text": "How to use it in daily routine? Rosemary & Rice Water Hair Growth Spray"
+  },
+  {
+    "message_id": "msg_73",
+    "text": "Does it work for bald patches? Advanced Hair Growth Serum with Redensyl, Rosemary, Rice Water (30 ml)"
+  },
+  {
+    "message_id": "msg_74",
+    "text": "Suggest something for hair growth?"
+  },
+  {
+    "message_id": "msg_75",
+    "text": "Customer care number"
+  },
+  {
+    "message_id": "msg_76",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_77",
+    "text": "Is my amount refunded already "
+  },
+  {
+    "message_id": "msg_78",
+    "text": "What’s special about it? Exfoliating Body Wash with Lactic Acid - 236 ml"
+  },
+  {
+    "message_id": "msg_79",
+    "text": "8015455478"
+  },
+  {
+    "message_id": "msg_80",
+    "text": "This can use for me ? "
+  },
+  {
+    "message_id": "msg_81",
+    "text": "How to apply this..? "
+  },
+  {
+    "message_id": "msg_82",
+    "text": "It is showing untraceable"
+  },
+  {
+    "message_id": "msg_83",
+    "text": "Ok thank u"
+  },
+  {
+    "message_id": "msg_84",
+    "text": "3235062"
+  },
+  {
+    "message_id": "msg_85",
+    "text": "I asked about quantity"
+  },
+  {
+    "message_id": "msg_86",
+    "text": "Isko kaise use kare? Rosemary & Rice Water Hair Growth Spray"
+  },
+  {
+    "message_id": "msg_87",
+    "text": "Is this is approved by dermatologist "
+  },
+  {
+    "message_id": "msg_88",
+    "text": "RTO means "
+  },
+  {
+    "message_id": "msg_89",
+    "text": "Pigem ation  cream "
+  },
+  {
+    "message_id": "msg_90",
+    "text": "Add to cart - AHA Body Lotion with Niacinamide & Shea Butter"
+  },
+  {
+    "message_id": "msg_91",
+    "text": "What's your best product?"
+  },
+  {
+    "message_id": "msg_92",
+    "text": "H"
+  },
+  {
+    "message_id": "msg_93",
+    "text": "Help me track order"
+  },
+  {
+    "message_id": "msg_94",
+    "text": "What about open porse?"
+  },
+  {
+    "message_id": "msg_95",
+    "text": "So yeah! How will i apply both these shamboos the same day?"
+  },
+  {
+    "message_id": "msg_96",
+    "text": "I love you 😽 "
+  },
+  {
+    "message_id": "msg_97",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_98",
+    "text": "Mam yahi sab bolte hai sab acha hoga par nahi hota hai "
+  },
+  {
+    "message_id": "msg_99",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_100",
+    "text": "This is not proper answer "
+  },
+  {
+    "message_id": "msg_101",
+    "text": "How to use it? Exfoliating Body Wash with Lactic Acid - 236 ml"
+  },
+  {
+    "message_id": "msg_102",
+    "text": "do your team consult"
+  },
+  {
+    "message_id": "msg_103",
+    "text": "My order 10 delayed "
+  },
+  {
+    "message_id": "msg_104",
+    "text": "Tamil"
+  },
+  {
+    "message_id": "msg_105",
+    "text": "After using serum we can use hair oil after that "
+  },
+  {
+    "message_id": "msg_106",
+    "text": "How to use it in daily routine? Natural Lip Balm for Chapped & Pigmented Lips | SPF 50 PA++++ & Kojic Acid"
+  },
+  {
+    "message_id": "msg_107",
+    "text": "Help me track order"
+  },
+  {
+    "message_id": "msg_108",
+    "text": "How to use it in daily routine? Rosemary & Rice Water Hair Growth Spray"
+  },
+  {
+    "message_id": "msg_109",
+    "text": "Use kese karte hain "
+  },
+  {
+    "message_id": "msg_110",
+    "text": "How to track order?"
+  },
+  {
+    "message_id": "msg_111",
+    "text": "How to use it in daily routine? Ultimate Hair Growth Combo: Rice Water Spray + Rosemary Oil"
+  },
+  {
+    "message_id": "msg_112",
+    "text": "Lekin or bhi to produce hai jese ki piliex , aadivasi hear oil"
+  },
+  {
+    "message_id": "msg_113",
+    "text": "Help me track order"
+  },
+  {
+    "message_id": "msg_114",
+    "text": "How long for visible results?"
+  },
+  {
+    "message_id": "msg_115",
+    "text": "Hindi me batao"
+  },
+  {
+    "message_id": "msg_116",
+    "text": "Did it cause hairfall?"
+  },
+  {
+    "message_id": "msg_117",
+    "text": "Is it safe for oily scalp?"
+  },
+  {
+    "message_id": "msg_118",
+    "text": "time"
+  },
+  {
+    "message_id": "msg_119",
+    "text": "Show the product of hyperpigmentation control serum "
+  },
+  {
+    "message_id": "msg_120",
+    "text": "Dandruff dur hoga???"
+  },
+  {
+    "message_id": "msg_121",
+    "text": "What's special about it? 5% Niacinamide Sunscreen Body Lotion SPF 50+ PA ++++ (200ml)"
+  },
+  {
+    "message_id": "msg_122",
+    "text": "How to use dandruff shampoo"
+  },
+  {
+    "message_id": "msg_123",
+    "text": "Hello "
+  },
+  {
+    "message_id": "msg_124",
+    "text": "Why my order are not delivering??? Whats the reason "
+  },
+  {
+    "message_id": "msg_125",
+    "text": "Ok ok"
+  },
+  {
+    "message_id": "msg_126",
+    "text": "Hy"
+  },
+  {
+    "message_id": "msg_127",
+    "text": "Is the shampoo fopd for daily use"
+  },
+  {
+    "message_id": "msg_128",
+    "text": "Ok "
+  },
+  {
+    "message_id": "msg_129",
+    "text": "Can I use it daily? Advanced Hair Growth Serum with Redensyl, Rosemary, Rice Water (30 ml)"
+  },
+  {
+    "message_id": "msg_130",
+    "text": "How to use it in daily routine? Anti Dandruff Shampoo with Salicylic Acid & Biotin- 250ml"
+  },
+  {
+    "message_id": "msg_131",
+    "text": "Hair fall khatam hoga"
+  },
+  {
+    "message_id": "msg_132",
+    "text": "Will there be any hairfall if I stop "
+  },
+  {
+    "message_id": "msg_133",
+    "text": "Di ye ak bar lea the to kuch fayda nahi hua tha "
+  },
+  {
+    "message_id": "msg_134",
+    "text": "Isko kaise use kare? Rosemary & Rice Water Hair Growth Spray"
+  },
+  {
+    "message_id": "msg_135",
+    "text": "When this shampoo doesn't work..what will we do?"
+  },
+  {
+    "message_id": "msg_136",
+    "text": "Give me offical amozon link"
+  },
+  {
+    "message_id": "msg_137",
+    "text": "My age is 24 I have white hair...so I dye my hair with black rose mehndi ..once a months..and use oil..of kadipata, and hisbiscus flower home made "
+  },
+  {
+    "message_id": "msg_138",
+    "text": "After using this serum my hair will fall?"
+  },
+  {
+    "message_id": "msg_139",
+    "text": "I paid for my order If I didn't get my order then give me my refund back "
+  },
+  {
+    "message_id": "msg_140",
+    "text": "Hi"
+  },
+  {
+    "message_id": "msg_141",
+    "text": "Yes"
+  },
+  {
+    "message_id": "msg_142",
+    "text": "It reduces hair fall "
+  },
+  {
+    "message_id": "msg_143",
+    "text": "Tell me for hair fall "
+  },
+  {
+    "message_id": "msg_144",
+    "text": "About my recent order"
+  },
+  {
+    "message_id": "msg_145",
+    "text": "Link do muje &&Thank you "
+  },
+  {
+    "message_id": "msg_146",
+    "text": "Okay "
+  },
+  {
+    "message_id": "msg_147",
+    "text": "sanjaymahesh962@gmail.com"
+  },
+  {
+    "message_id": "msg_148",
+    "text": "Face wash "
+  },
+  {
+    "message_id": "msg_149",
+    "text": "Hair growth serum can be applied over night"
+  },
+  {
+    "message_id": "msg_150",
+    "text": "Hii"
+  },
+  {
+    "message_id": "msg_151",
+    "text": "Can I use it daily? Advanced Hair Growth Serum with Redensyl, Rosemary, Rice Water (30 ml)"
+  },
+  {
+    "message_id": "msg_152",
+    "text": "Yes please "
+  },
+  {
+    "message_id": "msg_153",
+    "text": "How can I return an order? "
+  },
+  {
+    "message_id": "msg_154",
+    "text": "Isn't it rupees 10"
+  },
+  {
+    "message_id": "msg_155",
+    "text": "Isko kaise use kare? Advanced Anti-Grey Serum with Silverfree Peptide, Rosemary, Biotin - 50ml"
+  },
+  {
+    "message_id": "msg_156",
+    "text": "Mughe hair ke oil "
+  },
+  {
+    "message_id": "msg_157",
+    "text": "What's special about it? Rosemary & Rice Water Hair Growth Spray"
+  },
+  {
+    "message_id": "msg_158",
+    "text": "My order is not delivered can i cancel it and reorder "
+  },
+  {
+    "message_id": "msg_159",
+    "text": "If so then why is it not visible to me in my history "
+  },
+  {
+    "message_id": "msg_160",
+    "text": "Is it better for oil scalp ?"
+  },
+  {
+    "message_id": "msg_161",
+    "text": "Ok"
+  },
+  {
+    "message_id": "msg_162",
+    "text": "30226814"
+  },
+  {
+    "message_id": "msg_163",
+    "text": "Help me track order"
+  },
+  {
+    "message_id": "msg_164",
+    "text": "Refund process"
+  },
+  {
+    "message_id": "msg_165",
+    "text": "Oily skin "
+  },
+  {
+    "message_id": "msg_166",
+    "text": "Side effect nahi hai na"
+  },
+  {
+    "message_id": "msg_167",
+    "text": "I am using this spray with bare anatomy anti dandruff shampoo and conditioner, bare anatomy ultra smoothening hair mask and serum. Is this a good hair care routine?"
+  },
+  {
+    "message_id": "msg_168",
+    "text": "Aap Hindi mein bolo mujhe English mein kuchh nahin samajh a raha hai"
+  },
+  {
+    "message_id": "msg_169",
+    "text": "Can I use it after conditioner?"
+  },
+  {
+    "message_id": "msg_170",
+    "text": "Can I use "
+  },
+  {
+    "message_id": "msg_171",
+    "text": "How long for visible results?"
+  },
+  {
+    "message_id": "msg_172",
+    "text": "What's special about it? Rosemary & Rice Water Hair Growth Spray - 200 ml | Pack of 2"
+  },
+  {
+    "message_id": "msg_173",
+    "text": "How long for visible results?"
+  },
+  {
+    "message_id": "msg_174",
+    "text": "3162371"
+  },
+  {
+    "message_id": "msg_175",
+    "text": "It's fake 🤥 nothing it's work i have used lots of products "
+  },
+  {
+    "message_id": "msg_176",
+    "text": "Pament&&Jada dhikha raha h"
+  },
+  {
+    "message_id": "msg_177",
+    "text": "Cancel my order "
+  },
+  {
+    "message_id": "msg_178",
+    "text": "does Rosemary and hibiscus hair oil can cure baldness and can promote baby hair growth"
+  },
+  {
+    "message_id": "msg_179",
+    "text": "Both use same time"
+  },
+  {
+    "message_id": "msg_180",
+    "text": "Does it contain harmful chenicals"
+  },
+  {
+    "message_id": "msg_181",
+    "text": "Full body cleanse"
+  },
+  {
+    "message_id": "msg_182",
+    "text": "Hindi please "
+  },
+  {
+    "message_id": "msg_183",
+    "text": "If this order will not come means I will order another one so plz support "
+  },
+  {
+    "message_id": "msg_184",
+    "text": "All ingredients "
+  },
+  {
+    "message_id": "msg_185",
+    "text": "What's special about it? Hair Fall Control Shampoo with Peptides"
+  },
+  {
+    "message_id": "msg_186",
+    "text": "Replace or exchange product "
+  },
+  {
+    "message_id": "msg_187",
+    "text": "Kitne din me delevery ho jayega"
+  },
+  {
+    "message_id": "msg_188",
+    "text": "Yes"
+  },
+  {
+    "message_id": "msg_189",
+    "text": "In how many days results will show up"
+  },
+  {
+    "message_id": "msg_190",
+    "text": "Salonipuri2345@gmail.com"
+  },
+  {
+    "message_id": "msg_191",
+    "text": "Mujhe English nahin aati Hindi mein bolo"
+  },
+  {
+    "message_id": "msg_192",
+    "text": "When is my order there is no update on delivery date "
+  },
+  {
+    "message_id": "msg_193",
+    "text": "Review dal diya hun ...."
+  },
+  {
+    "message_id": "msg_194",
+    "text": "Smj nhi aya ek bar pls btaye"
+  },
+  {
+    "message_id": "msg_195",
+    "text": "RTO in transit my order why"
+  },
+  {
+    "message_id": "msg_196",
+    "text": "Sale kab se start h"
+  },
+  {
+    "message_id": "msg_197",
+    "text": "Suggest something for hair growth?"
+  },
+  {
+    "message_id": "msg_198",
+    "text": "Ok thankyou "
+  },
+  {
+    "message_id": "msg_199",
+    "text": "Hey I want customized shampoo "
   }
 ]
